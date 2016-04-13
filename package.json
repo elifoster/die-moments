@@ -1,0 +1,19 @@
+{
+  "title": "Die Moments",
+  "name": "die-moments",
+  "version": "1.0.0",
+  "description": "Because who even cares about Twitter moments?",
+  "author": "Eli Clemente Gordillo Foster",
+  "main": "index.js",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "moment",
+    "twitter",
+    "moments",
+    "tab",
+    "remove"
+  ]
+}
